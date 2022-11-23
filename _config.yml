@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: JobinsonWorks
+title: JobinsonWorks | A blogflix from Jobinson
+description: A collection of writeups that makes me happy
 tags:
   - blog
   - template
@@ -45,8 +44,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: ""   # the subpath of your site, e.g. /blog
-url: "https://pjobinson.github.io" # the base hostname & protocol for your site
+baseurl: "https://pjobinson.github.io"   # the subpath of your site, e.g. /blog
+url: "https://www.jobinsonworks.com" # the base hostname & protocol for your site
 #google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
