@@ -24,7 +24,7 @@ So I did some digging in some of the most popular websites in search of the best
 
 <!--page-->
 
-//## Inline HTML elements
+<!-- ## Inline HTML elements-->
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
