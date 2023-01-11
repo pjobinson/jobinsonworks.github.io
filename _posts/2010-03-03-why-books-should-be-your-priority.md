@@ -1,16 +1,16 @@
 ---
 date: 2023-01-11 12:26:40
 layout: post
-title: best books of 2023
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: Top 5 Books on My Reading Bucket List 
+subtitle: Best Books In 2023
+description: A list of 5 most popular books that I wish to read in 2023. 
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
 category: life
 tags:
   - books
   - read
-author: mranderson
+author: Jobinson
 paginate: true
 ---
 
