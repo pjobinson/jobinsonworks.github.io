@@ -41,8 +41,26 @@ Most of these elements are styled by browsers with few modifications on our part
 
 # Top 5 Books in 2023
 
-## Heading 2
+This list is just a creation of my favorite books based on my likes. 
 
+I have also tried to provide amazon links for all the books listed in this article, where you can grab the best deals compared to other sites.
+
+
+## We All Want Impossible Things: by Catherine Newman
+
+If you think you are a gregarious person, then this book from Catherine Newman is a good addition to your wish list. 
+
+During my pursuit of finding an engaging friendship book, I found some beautiful reader reviews for this title. Some of the reviews are added here for you:
+
+<cite> “Oh, this glorious book! With warmth, wit, tenderness, and a singular voice, Catherine Newman encapsulates both the heartbreak and yet vital necessity of a life lived with deep friendship.”</cite> - WIZ WHARTON.
+
+</cite>“One of those books I will be buying for everyone I know. A funny, moving, beautifully written book...will stay with me for a very long time”</cite> - JENNIE GODFREY.
+
+The story surrounds two women, Edi and Ash, best friends from childhood face a terrible situation in the form of terminal cancer. 
+
+Catherine makes sure that she has given all life elements to the characters in the novel to make it a “stay up late book” for your reading.
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=pjobinson-21&language=en_GB&marketplace=amazon&region=GB&placement=085752898X&asins=085752898X&linkId=5fdb7af4033b746553d0a5cd76e43cca&show_border=true&link_opens_in_new_window=true"></iframe>
 ### Heading 3
 
 #### Heading 4
